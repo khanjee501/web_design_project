@@ -1,0 +1,42 @@
+WEBSITE INGREDIENTS:
+
+Typography
+Colors
+Images / Illustrations
+Icons
+Shadows
+Border-Radius
+Whitespace
+Visual Hierarchy
+User Experience
+Components/Layout
+
+
+DIFFERENT TYPES OF WEBSITE PERSONLAITIES:
+
+1. Serious/Elegant:
+For luxury and elegance, based on thin serif typefaces, golden
+or pastel colors, and high quality images.
+
+2. Minimalist/Simple:
+Focus on the essential text content, using small or medium sized
+sans-serif black text, lines and few images and icons.
+
+3. Plain/Neutral:
+Using Neutral and small typefaces and very structured layout.
+common in big corporations.
+
+4. Bold/Confident:
+Big and Bold typography, use of big and bright colored blocks
+
+5. Calm/Peaceful:
+Products and services that care for customers, calming pastel
+colors, soft serif headings and mathcing images/illustrations.
+
+6. Startup/Upbeat:
+Widley used in start ups, medium sized sans-serif typefaces,
+light grey text and bgs and rounded elements.
+
+7. PLayful/Fun:
+Colorful and round designs, creative elements like hand drawn
+icons, illustrations, animations and fun language.
