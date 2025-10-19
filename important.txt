@@ -40,3 +40,27 @@ light grey text and bgs and rounded elements.
 7. PLayful/Fun:
 Colorful and round designs, creative elements like hand drawn
 icons, illustrations, animations and fun language.
+
+TYPOGRAPHY:
+
+Making the text simple, beautiful and more readable.
+
+Rules:
+1. Use only good and popular typefaces.
+2. Only one typeface for page, if you want to increase limit it
+to two.
+3. Choose according to website personality.
+4. Decide between a serif and sans-serif typefaces or other
+common ones.
+5. For font sizes use between 16 and 32 px. For headlines you
+go bigger i.e, more than 50px and weight 600+. Weight should
+not be less than 400 as it will be dificult to read.
+6. For good reading exp for users;
+- use les sthan 75 chars per lines.
+- For normal sized text use a line height between 1.5 to 2,
+for big text go below 1.5 as that is easily readable.
+- Decrease letter spacing in headlines. Even in minus sometimes
+- Experiment with all caps for short titles, Make them small
+and bold and decrease letter spacing.
+- Usually don't align or justify text.
+- Don't center long text blocks, short blocks are fine.
