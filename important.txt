@@ -1,0 +1,107 @@
+WEBSITE INGREDIENTS:
+
+Typography
+Colors
+Images / Illustrations
+Icons
+Shadows
+Border-Radius
+Whitespace
+Visual Hierarchy
+User Experience
+Components/Layout
+
+
+DIFFERENT TYPES OF WEBSITE PERSONLAITIES:
+
+1. Serious/Elegant:
+For luxury and elegance, based on thin serif typefaces, golden
+or pastel colors, and high quality images.
+
+2. Minimalist/Simple:
+Focus on the essential text content, using small or medium sized
+sans-serif black text, lines and few images and icons.
+
+3. Plain/Neutral:
+Using Neutral and small typefaces and very structured layout.
+common in big corporations.
+
+4. Bold/Confident:
+Big and Bold typography, use of big and bright colored blocks
+
+5. Calm/Peaceful:
+Products and services that care for customers, calming pastel
+colors, soft serif headings and mathcing images/illustrations.
+
+6. Startup/Upbeat:
+Widley used in start ups, medium sized sans-serif typefaces,
+light grey text and bgs and rounded elements.
+
+7. PLayful/Fun:
+Colorful and round designs, creative elements like hand drawn
+icons, illustrations, animations and fun language.
+
+TYPOGRAPHY:
+
+Making the text simple, beautiful and more readable.
+
+Rules:
+1. Use only good and popular typefaces.
+2. Only one typeface for page, if you want to increase limit it
+to two.
+3. Choose according to website personality.
+4. Decide between a serif and sans-serif typefaces or other
+common ones.
+5. For font sizes use between 16 and 32 px. For headlines you
+go bigger i.e, more than 50px and weight 600+. Weight should
+not be less than 400 as it will be dificult to read.
+6. For good reading exp for users;
+- use les sthan 75 chars per lines.
+- For normal sized text use a line height between 1.5 to 2,
+for big text go below 1.5 as that is easily readable.
+- Decrease letter spacing in headlines. Even in minus sometimes
+- Experiment with all caps for short titles, Make them small
+and bold and decrease letter spacing.
+- Usually don't align or justify text.
+- Don't center long text blocks, short blocks are fine.
+
+2. COLORS:
+
+Choose color that matches your website personality.
+- RED: draws a lot of attention, symbolizes power,
+passion and excitement.
+- ORANGE: less aggressive, conveys happiness, cherfulness and
+creativity.
+- YELLOW: means joy,brightness and intelligence.
+- GREEN: Harmony, nature, growth and health.
+- BLUE: Peace, trustworthiness and professionalism.
+- PURPLE: wealth, wisdom and magic.
+- PINK: Romance, care and affection
+- BROWN: Nature, durability and comfort
+- BLACK: Power, elegance, minimalism, also grief and sorrow.
+Black not the best color to choose.
+
+Open colors is a nice website on github to choose colors.
+
+ESTABLISH A COLOR SYSTEM:
+We always need two colors in our color palette a main color and a grey color.
+Or we can even add a third color accent color by using some tool that genartes palettes.
+We can choose different tints (lighter) and shades(brighter) of main, accent or text colors.
+Palleton.com and coolors can be used to genrate palettes.
+
+HOW TO USE COLORS:
+Main color can be seen in logos and it is must to use it on CTA
+(Call To Action) button.
+
+Accent colors are used as bg colors on important sections or some imp text
+that will stand out from the rest of the content.
+
+For dark colored bgs it is great to use a lighter version of the
+same color for text.
+
+Text should not be completely black or very light.
+
+Use a tool to check contrast between text and bg colors.
+It needs to at least 4.5:1 for normal text and 3:1 for
+larger text. The more the better. Use coolors to check the
+contrast.
