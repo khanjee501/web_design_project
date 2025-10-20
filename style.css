@@ -28,7 +28,7 @@ body {
 }
 
 .container {
-  width: 960px;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -151,6 +151,10 @@ img {
 }
 
 /* CHAIRS */
+.chair {
+  box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.075);
+}
+
 .chair-box {
   padding: 24px;
 }
